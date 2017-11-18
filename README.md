@@ -1,24 +1,36 @@
-# README
+My Users2
+================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-Things you may want to cover:
+Ruby on Rails
+-------------
 
-* Ruby version
+This application requires:
 
-* System dependencies
+- Ruby 2.4.1
+- Rails 5.1.4
+- PostgresQL 9.x
 
-* Configuration
+Getting Started
+---------------
 
-* Database creation
+Documentation and Support
+-------------------------
 
-* Database initialization
+Issues
+-------------
 
-* How to run the test suite
+Similar Projects
+----------------
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributing
+------------
 
-* Deployment instructions
+Credits
+-------
 
-* ...
+Aлексей Жевлаков
+
+License
+-------
